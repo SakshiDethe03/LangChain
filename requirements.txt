@@ -1,0 +1,6 @@
+dotenv
+langchain
+langchain.agents
+langchain.messages
+langchain_groq
+pydantic
